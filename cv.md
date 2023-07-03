@@ -12,3 +12,18 @@ After some days learn programming i'm understand: I'am really like coding. This 
 * CSS
 * Some JavaScript
 * Git Basics
+# Code examples
+```
+function multiply(a, b){
+  return a * b
+}
+```
+# Education
+* Novopolotsk, Novopolotsk State Polytechnic College, Belarus
+  * Process plant operator 4 categories
+* Novopolotsk, Polotsk State University, Belarus 
+  * Сhemical engineer
+# Languages
+* Belarusian
+* English (A1)
+* Russian
