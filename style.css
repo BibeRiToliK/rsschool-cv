@@ -1,1 +1,65 @@
-body { color: aqua; }
+* {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+
+.header-nav {
+   min-height: 60px;
+   background-color: #47a6c650;
+}
+
+body {
+   max-width: 1024px;
+   min-width: 600px;
+   margin: 0 auto;
+   font-family: 'Montserrat', sans-serif;
+   padding: 2rem;
+   background-color: #e6e2d4;
+}
+
+.cv {
+   min-height: 500px;
+   padding: 30px;
+   background-color: white;
+   border: 1px solid;
+   box-shadow: 5px 6px 32px 1px rgba(0,0,0,0.49);
+}
+
+.cv h1 {
+   text-align: center;
+}
+
+.cv .my-image img {
+   float: left;
+   border-radius: 10px;
+}
+
+.underline {
+   width: 100%;
+   height: 0.05rem;
+   margin-top: 1rem;
+   background-color: grey;
+   margin-bottom: 1rem;
+}
+
+.cv h2 {
+   margin-left: 35%;
+}
+
+.education-list li {
+   margin-left: 35%;
+   margin-top: 17px;
+}
+
+.education-list {
+   margin-bottom: 28px;
+}
+.summary-text {
+   line-height: 30px;
+}
+
+.skills-list li {
+   margin-top: 10px;
+   margin-left: 2%;
+}
